@@ -6,24 +6,32 @@
 
 ## 💻 About Me
 
-- 🌱 I'm always learning and improving my programming skills.
-- 💡 I enjoy building projects and solving problems using code.
-- 🚀 I’m particularly interested in software development and web technologies.
+- 🌱 Constantly learning and improving my programming skills.
+- 💡 I enjoy building real-world projects and solving logical problems.
+- 🚀 Passionate about software development and web technologies.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Tools
 
-- 👨‍💻 **Programming:** Java, Python
-- 🌐 **Web Development:** HTML, CSS
+- 👨‍💻 **Languages:** Java, Python
+- 🌐 **Web:** HTML, CSS
+
+---
+
+## 📊 GitHub Stats
+
+![Rihatseikh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihatseikh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihatseikh&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌟 GitHub: [github.com/rihatseikh](https://github.com/rihatseikh)
-
-Feel free to check out my repositories and projects. I'm always open to collaboration and learning from others in the tech community!
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-username)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rihatseikh)
 
 ---
 
