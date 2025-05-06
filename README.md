@@ -1,23 +1,23 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rihat+Seikh;CSE+Diploma+Student+%7C+Programmer;Java+%7C+Python+%7C+HTML+%7C+CSS;Welcome+to+my+Digital+Profile+on+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rifat+Sheikh;CSE+Diploma+Student+%7C+Programmer;Java+%7C+Python+%7C+HTML+%7C+CSS;Welcome+to+my+Digital+Profile+on+GitHub!" />
 </p>
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rihat%20Seikh&fontSize=40&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%F0%9F%92%BB&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rifat%20Sheikh&fontSize=40&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%F0%9F%92%BB&descAlignY=55" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 **Name**: Rihat Seikh  
+- 👨‍🎓 **Name**: Rifat Sheikh  
 - 🎓 **Studying**: Diploma in Computer Science & Technology  
 - 🏫 **Institute**: Patuakhali Polytechnic Institute  
-- 🌱 **Currently Learning**: Full-Stack Web Development  
-- 🔭 **Building**: Mini Projects in Java & Python  
-- 💬 **Ask me about**: Java, Python, HTML, CSS  
+- 🌱 **Currently Learning**: Full-Stack Web Development (MERN Stack)  
+- 🔭 **Building**: CLI tools in Python and Java-based web apps  
+- 💬 **Ask me about**: Java, Python, HTML, CSS, Git, VS Code  
 - ⚡ **Goals**: Become a Software Engineer & Contribute to Open Source  
 - 📍 **Location**: Patuakhali, Bangladesh
 
@@ -26,7 +26,7 @@
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,git,github,vscode,linux,windows" />
 </p>
 
 ---
@@ -71,6 +71,7 @@
   <a href="https://github.com/CodeWithRifat001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <!-- Add LinkedIn if available -->
 </p>
 
 ---
