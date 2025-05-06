@@ -1,38 +1,52 @@
-# 👋 Hello, I'm Rihatseikh!
+# 👋 Hey there! I'm Rihat Seikh
 
-🎓 I'm a passionate student of **Computer Science and Technology**, currently pursuing my **Diploma** at **Patuakhali Polytechnic Institute**.
-
----
-
-## 💻 About Me
-
-- 🌱 Constantly learning and improving my programming skills.
-- 💡 I enjoy building real-world projects and solving logical problems.
-- 🚀 Passionate about software development and web technologies.
+🎓 A passionate **Computer Science and Technology** student  
+🏫 Currently pursuing a **Diploma at Patuakhali Polytechnic Institute**  
+💻 Programmer | Developer | Tech Enthusiast
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 About Me
 
-- 👨‍💻 **Languages:** Java, Python
-- 🌐 **Web:** HTML, CSS
+I love turning ideas into reality through code. Whether it's backend logic or frontend interfaces, I enjoy building projects that make a difference.
+
+### 👨‍💻 Languages & Technologies I Use:
+- 🔹 Java
+- 🔹 Python
+- 🔹 HTML & CSS
+
+---
+
+## 🛠️ Tools & Interests
+
+- Visual Studio Code, Git & GitHub
+- Web Development & Responsive Design
+- Open Source Contributions
+- Problem Solving & Algorithmic Thinking
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rihatseikh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihatseikh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihatseikh&layout=compact&theme=tokyonight)
+![Rihat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithRifat001&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRifat001&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
+## 🔗 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-username)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rihatseikh)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your_facebook_username)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_username)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithRifat001)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📌 Goals
+
+- 🔧 Build practical, real-world projects
+- 🚀 Learn advanced frameworks and tools
+- 🤝 Collaborate with developers worldwide
+
+---
+
+Thanks for visiting! 🌟 Let's connect and grow together 🚀
